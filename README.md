@@ -83,9 +83,9 @@ python login.py
 
 ## 📸 Screenshot
 
-![Login](screenshots/login.png)
-![Kasir](screenshots/kasir.png)
-![Preview Struk](screenshots/kasir.png)
+![Login](screenshot/login.png)
+![Kasir](screenshot/kasir.png)
+![Preview Struk](screenshot/kasir.png)
 
 ---
 
