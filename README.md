@@ -84,7 +84,7 @@ python login.py
 
 ![Login](screenshot/login.png)
 ![Kasir](screenshot/kasir.png)
-![Preview Struk](screenshot/kasir.png)
+![Preview Struk](screenshot/struk.png)
 
 ---
 
