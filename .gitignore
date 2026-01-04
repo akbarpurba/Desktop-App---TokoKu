@@ -1,0 +1,5 @@
+penjualan.db
+__pycache__/
+*.pyc
+.vscode/
+.settings/

@@ -1,0 +1,3 @@
+# TokoKu POS Desktop App dependencies
+python>=3.10
+reportlab>=3.6.12
