@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/akbarpurba/Desktop-App--TokoKu)](https://github.com/akbarpurba/Desktop-App--TokoKu)
 
 **TokoKu** adalah aplikasi **Point of Sale (POS) Desktop** berbasis Python & Tkinter.
 Dirancang untuk memudahkan pengelolaan penjualan, manajemen produk, dan pencetakan struk di toko, minimarket, atau café.
