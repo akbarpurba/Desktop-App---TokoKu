@@ -27,8 +27,8 @@ Dirancang untuk memudahkan pengelolaan penjualan, manajemen produk, dan pencetak
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/akbarpurba/Desktop-App---TokoKu.git
-cd Desktop-App---TokoKu
+git clone https://github.com/akbarpurba/Desktop-App-TokoKu.git
+cd Desktop-App-TokoKu
 ```
 
 ### 2️⃣ Buat Virtual Environment (Opsional)
